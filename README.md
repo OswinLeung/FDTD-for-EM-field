@@ -1,5 +1,5 @@
 
-This repository documents my work on simulating the transmission of electromagnetic waves through a dielectric slab using the 1D Finite Difference Time Domain method(1D-FDTD) and 2D Finite Difference Time Domain method(2D-FDTD). **If you think this is helpful, please star it!!❤❤❤**
+This repository documents my work on simulating the transmission of electromagnetic waves through a dielectric slab using the 1D Finite Difference Time Domain method(1D-FDTD) and 2D Finite Difference Time Domain method(2D-FDTD). 
 
 The purpose of this project is to explore how electromagnetic waves interact with materials of different permittivities and to calculate the transmission spectrum of the dielectric slab.
 
